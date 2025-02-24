@@ -29,11 +29,11 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 40px;
     width: 385px;
     height: auto;
     margin: auto;
-    padding: 36px;
+    padding: 40px;
     background-color: var(--gray-800);
     border-radius: 12px;
 }
@@ -68,7 +68,7 @@ align-self: center;
 .bottons-container {
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 20px;
 }
 .btn {
     background-color: var(--gray-700);
